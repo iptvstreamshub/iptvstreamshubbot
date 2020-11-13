@@ -1,4 +1,6 @@
 #Пример общения с ботом
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 
 import telebot
